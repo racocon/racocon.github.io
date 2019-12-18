@@ -27,8 +27,8 @@
 
 ### Live Websites
 
-- [E-Biddi Live Auction Site](https://auction.e-biddi.com/events)
 - [Urbane Ethos Early Intervention Center](https://www.urbaneethos.center/)
+- [E-Biddi Live Auction Site](https://auction.e-biddi.com/events)
 
 ---
 

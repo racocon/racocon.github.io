@@ -2,20 +2,42 @@
 
 ---
 
-### Category Name 1 
+### Assistor App - Figma Design 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/001.jpg?raw=true"/>
+<br>
+<img src="images/002.jpg?raw=true"/>
+<br>
+<img src="images/003.jpg?raw=true"/>
+<br>
+<img src="images/004.jpg?raw=true"/>
+<br>
+<img src="images/005.jpg?raw=true"/>
+<br>
+<img src="images/006.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Assistor App - Figma Design 
+
+
+<img src="images/007.jpg?raw=true"/>
+<br>
+<img src="images/008.jpg?raw=true"/>
+<br>
+<img src="images/009.jpg?raw=true"/>
+<br>
+<img src="images/010.jpg?raw=true"/>
+<br>
+<img src="images/011.jpg?raw=true"/>
+<br>
+<img src="images/012.jpg?raw=true"/>
+<br>
+<img src="images/013.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 

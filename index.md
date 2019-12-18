@@ -7,13 +7,9 @@
 
 <img src="images/001.jpg?raw=true"/>
 <br>
-<img src="images/002.jpg?raw=true"/>
-<br>
-<img src="images/003.jpg?raw=true"/>
+<img src="images/002.jpg?raw=true"/
 <br>
 <img src="images/004.jpg?raw=true"/>
-<br>
-<img src="images/005.jpg?raw=true"/>
 <br>
 <img src="images/006.jpg?raw=true"/>
 
@@ -25,10 +21,6 @@
 <img src="images/007.jpg?raw=true"/>
 <br>
 <img src="images/008.jpg?raw=true"/>
-<br>
-<img src="images/009.jpg?raw=true"/>
-<br>
-<img src="images/010.jpg?raw=true"/>
 <br>
 <img src="images/011.jpg?raw=true"/>
 <br>

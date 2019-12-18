@@ -5,17 +5,11 @@
 ### Assistor App - Figma Design 
 
 
-<img src="images/001.jpg?raw=true"/>
-<br>
-<img src="images/002.jpg?raw=true"/
-<br>
-<img src="images/004.jpg?raw=true"/>
-<br>
-<img src="images/006.jpg?raw=true"/>
+<img src="images/pic001.jpg?raw=true"/>
 
 ---
 
-### Assistor App - Figma Design 
+### Ligblou Website - Figma Design 
 
 
 <img src="images/007.jpg?raw=true"/>

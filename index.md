@@ -25,13 +25,10 @@
 ---
 
 
-### Category Name 2
+### Live Websites
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [E-Biddi Live Auction](https://auction.e-biddi.com/events)
+- [Urbane Ethos Early Intervention Center](https://www.urbaneethos.center/)
 
 ---
 

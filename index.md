@@ -5,7 +5,7 @@
 ## Production Design
 ###  Bring Back The Vibe [Music Video] | 2020
 
-- [The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg)
+[The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg)
 <br> <br>
 <img src="images/mv003.jpg?raw=true"/>
 <br>

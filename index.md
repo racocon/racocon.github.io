@@ -1,11 +1,10 @@
-# Portfolio
+## Portfolio
 
 <hr>
 
-## Production Design
-###  Bring Back The Vibe [Music Video] | 2020
+### Production Design
 
-[The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg)
+[(Music Video) The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg)
 <br> <br>
 <img src="images/mv003.jpg?raw=true"/>
 <br>
@@ -17,7 +16,7 @@
 
 ---
 
-## UI/UX Design
+### UI/UX Design
 
 ### Urbane Ethos Website [Wix] | 2019
 
@@ -36,13 +35,5 @@
 ### LigBlou Website [Figma] | 2018
 
 
-<img src="images/007.jpg?raw=true"/>
-<br>
-<img src="images/008.jpg?raw=true"/>
-<br>
-<img src="images/011.jpg?raw=true"/>
-<br>
-<img src="images/012.jpg?raw=true"/>
-<br>
-<img src="images/013.jpg?raw=true"/>
+<img src="images/pic002.jpg?raw=true"/>
 

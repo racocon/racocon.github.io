@@ -2,7 +2,7 @@
 
 ---
 
-### Production Designer - Bring Back The Vibe [Music Video]
+### Production Design - Bring Back The Vibe [Music Video]
 
 - [The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg)
 <br>

@@ -35,6 +35,5 @@
 
 ### Publications
 
-- [(GAML) Agent-Based modelling: An in silico study on the effectiveness of Wolbachia-Infected mosquitoes as vector control agents](http://dx.doi.org/10.5958/0974-4614.2018.00076.1) | 2018
-- [Manuscript](/pdf/manuscript001.pdf)
+- [(GAML) Agent-Based modelling: An in silico study on the effectiveness of Wolbachia-Infected mosquitoes as vector control agents](http://dx.doi.org/10.5958/0974-4614.2018.00076.1) | [Manuscript](/pdf/manuscript001.pdf) | 2018
 

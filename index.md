@@ -2,7 +2,7 @@
 
 <hr>
 
-### Production Design
+### Production Designs
 
 - [(Music Video) The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg) | 2020
 <br> <br>
@@ -16,7 +16,7 @@
 
 ---
 
-### UI/UX Design
+### UI/UX Designs
 
 - [(Wix) Urbane Ethos Early Intervention Center](https://www.urbaneethos.center/) | 2019
 
@@ -30,4 +30,10 @@
 
 
 <img src="images/pic002.jpg?raw=true"/>
+
+---
+
+### Publications
+
+- [(GAML) Agent-Based modelling: An in silico study on the effectiveness of Wolbachia-Infected mosquitoes as vector control agents](http://dx.doi.org/10.5958/0974-4614.2018.00076.1) | 2018
 

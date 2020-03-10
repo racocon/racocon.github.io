@@ -13,7 +13,6 @@
 <img src="images/mv004.jpg?raw=true"/>
 <br>
 <img src="images/mv001.jpg?raw=true"/>
-<br>
 
 ---
 

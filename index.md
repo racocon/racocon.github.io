@@ -4,6 +4,16 @@
 
 ### Production Design
 
+- [(Cooking Video) Era Foods MY | #MasakBersamaDapurERA](https://www.youtube.com/watch?v=8lDeQ0HPKhM&list=PLv5sJmxTWxrbAJl3aJOZ00p-TQnnv8573&ab_channel=EraFoodsMYEraFoodsMY) | 2020
+  <br> <br>
+  <img src="images/mv008.jpg?raw=true"/>
+  <br>
+  <img src="images/mv009.jpg?raw=true"/>
+  <br>
+  <img src="images/mv007.jpg?raw=true"/>
+  <br>
+  <img src="images/mv010.jpg?raw=true"/>
+  <br><br>
 - [(Music Video) The Pinholes | Bring Back The Vibe](https://www.youtube.com/watch?v=ujBCGWoadHg) | 2020
   <br> <br>
   <img src="images/mv003.jpg?raw=true"/>
@@ -16,13 +26,26 @@
 
 ---
 
+### Front-End Development
+
+- (VueJS) Sun Life Malaysia e-Nomination | 2019
+  <br><br>
+  <img src="images/fe001.png?raw=true"/>
+  <br><br>
+- (VueJS) Lim Lean Giap CRM | 2019
+  <br><br>
+  <img src="images/fe002.png?raw=true"/>
+  <br><br>
+
+---
+
 ### UI/UX Design
 
-- [(Wix) Urbane Ethos Early Intervention Center](https://www.urbaneethos.center/) | 2019
-  <br><br>
 - (Figma) NES Quest List | 2021
   <br><br>
   <img src="images/ui003.jpg?raw=true"/>
+  <br><br>
+- [(Wix) Urbane Ethos Early Intervention Center](https://www.urbaneethos.center/) | 2019
   <br><br>
 - (Figma) Assistor App | 2019
   <br><br>
